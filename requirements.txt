@@ -1,0 +1,2 @@
+pestuary
+estuary_client==1.0.4
